@@ -1,6 +1,6 @@
 ---
-title: 'Anthropic courses'
-description: 'My take on the courses available at anthropic.skilljar.com'
+title: 'Anthropic courses and how to stay up to date with AI tooling'
+description: 'My take on the Skilljar courses, plus the X accounts I follow to keep up.'
 pubDate: 'May 03 2026'
 ---
 
