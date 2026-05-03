@@ -12,7 +12,7 @@ A list of courses from [anthropic.skilljar.com](https://anthropic.skilljar.com/)
 3. Introduction to Claude Cowork
 4. Claude Code in Action — pretty outdated, avoid it
 5. AI Fluency: Framework & Foundations — great general course, a framework for how and when to work with AI. Recommended for everyone
-6. Building with the Claude API
+6. Building with the Claude API — detailed course, explains a lot. Recommended if you want to build with the Claude API
 7. Introduction to Model Context Protocol
 8. AI Fluency for educators
 9. AI Fluency for students
