@@ -7,7 +7,7 @@ heroImage: '../../assets/blog-placeholder-3.jpg'
 
 A list of courses from [anthropic.skilljar.com](https://anthropic.skilljar.com/) and what I think about each.
 
-1. Claude 101
+1. Claude 101 — short, good starting point if you're new to Claude products
 2. Claude Code 101
 3. Introduction to Claude Cowork
 4. Claude Code in Action — pretty outdated, avoid it
