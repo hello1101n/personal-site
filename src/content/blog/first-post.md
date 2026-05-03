@@ -7,6 +7,8 @@ heroImage: '../../assets/blog-placeholder-3.jpg'
 
 A list of courses from [anthropic.skilljar.com](https://anthropic.skilljar.com/) and what I think about each.
 
+*Items without a note are ones I haven't taken yet — I'll review them later.*
+
 1. [Claude 101](https://anthropic.skilljar.com/claude-101) — short, good starting point if you're new to Claude products
 2. [Claude Code 101](https://anthropic.skilljar.com/claude-code-101) — short, but too surface-level to use Claude Code effectively
 3. [Introduction to Claude Cowork](https://anthropic.skilljar.com/introduction-to-claude-cowork) — good, quick intro to Cowork. Recommended for everyone
