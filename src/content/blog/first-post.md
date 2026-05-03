@@ -2,7 +2,6 @@
 title: 'Anthropic courses'
 description: 'My take on the courses available at anthropic.skilljar.com'
 pubDate: 'May 03 2026'
-heroImage: '../../assets/blog-placeholder-3.jpg'
 ---
 
 A list of courses from [anthropic.skilljar.com](https://anthropic.skilljar.com/) and what I think about each.
