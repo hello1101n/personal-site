@@ -30,7 +30,7 @@ A list of courses from [anthropic.skilljar.com](https://anthropic.skilljar.com/)
 
 **X accounts I follow for updates:**
 
-- [@ClaudeCodeLog](https://x.com/ClaudeCodeLog) — Claude Code changelog
+- [@ClaudeCodeLog](https://x.com/ClaudeCodeLog) — Claude Code Changelog
 - [@claudeai](https://x.com/claudeai) — Claude AI / Anthropic
 - [@bcherny](https://x.com/bcherny) — Boris Cherny (creator of Claude Code, Anthropic)
 - [@trq212](https://x.com/trq212) — Anthropic
@@ -38,4 +38,4 @@ A list of courses from [anthropic.skilljar.com](https://anthropic.skilljar.com/)
 - [@OpenAIDevs](https://x.com/OpenAIDevs) — OpenAI Developers (API, Codex, SDK changelog)
 - [@ChatGPTapp](https://x.com/ChatGPTapp) — ChatGPT product/app updates
 - [@karpathy](https://x.com/karpathy) — Andrej Karpathy (ex-OpenAI, AI/LLM)
-- [@mattpocockuk](https://x.com/mattpocockuk) — Matt Pocock (focuses on Claude Code)
+- [@mattpocockuk](https://x.com/mattpocockuk) — Matt Pocock (focuses more on Claude Code)
