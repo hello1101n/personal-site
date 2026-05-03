@@ -16,7 +16,7 @@ A list of courses from [anthropic.skilljar.com](https://anthropic.skilljar.com/)
 6. [Building with the Claude API](https://anthropic.skilljar.com/claude-with-the-anthropic-api) — detailed course covering MCP, agents and workflows, basic RAG, evals, and prompt engineering. Recommended for any builder or engineer
 7. [Introduction to Model Context Protocol](https://anthropic.skilljar.com/introduction-to-model-context-protocol) — covered inside Building with the Claude API. Skip if you took that one
 8. [AI Fluency for educators](https://anthropic.skilljar.com/ai-fluency-for-educators) — watched because I work in EdTech. Practical application of AI Fluency: Framework & Foundations for course and lesson design
-9. [AI Fluency for students](https://anthropic.skilljar.com/ai-fluency-for-students)
+9. [AI Fluency for students](https://anthropic.skilljar.com/ai-fluency-for-students) — core idea: use AI as a learning partner, not a substitute for actually learning
 10. [Model Context Protocol: Advanced Topics](https://anthropic.skilljar.com/model-context-protocol-advanced-topics)
 11. [Claude with Amazon Bedrock](https://anthropic.skilljar.com/claude-in-amazon-bedrock)
 12. [Claude with Google Cloud's Vertex AI](https://anthropic.skilljar.com/claude-with-google-vertex)
