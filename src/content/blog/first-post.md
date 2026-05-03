@@ -10,7 +10,7 @@ A list of courses from [anthropic.skilljar.com](https://anthropic.skilljar.com/)
 1. Claude 101
 2. Claude Code 101
 3. Introduction to Claude Cowork
-4. Claude Code in Action
+4. Claude Code in Action — painfully outdated, avoid it
 5. AI Fluency: Framework & Foundations
 6. Building with the Claude API
 7. Introduction to Model Context Protocol
