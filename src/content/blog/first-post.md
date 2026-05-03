@@ -26,7 +26,7 @@ A list of courses from [anthropic.skilljar.com](https://anthropic.skilljar.com/)
 16. [Introduction to subagents](https://anthropic.skilljar.com/introduction-to-subagents)
 17. [AI Capabilities and Limitations](https://anthropic.skilljar.com/ai-capabilities-and-limitations)
 
-**Important:** these courses are just a baseline — Claude and other AI tools evolve every few weeks. To stay current, I'd use Claude Cowork (or a similar tool) to pull and digest content from [X.com](https://x.com/). For whatever reason, X is where Anthropic and OpenAI engineers post their thoughts and practices, and where companies drop their release notes.
+**Important:** these courses are just a baseline — Claude and other AI tools evolve every few weeks. To stay current, I'd use Claude Cowork (or other tool) to pull and digest content from [X.com](https://x.com/). For whatever reason, X is where Anthropic and OpenAI engineers post their thoughts and practices, and where companies drop their release notes.
 
 **X accounts I follow for updates:**
 
