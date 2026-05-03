@@ -28,4 +28,14 @@ A list of courses from [anthropic.skilljar.com](https://anthropic.skilljar.com/)
 
 **Important:** these courses are just a baseline — Claude and other AI tools evolve every few weeks. To stay current, I'd use Claude Cowork (or a similar tool) to pull and digest content from [X.com](https://x.com/). For whatever reason, X is where Anthropic and OpenAI engineers post their thoughts and practices, and where companies drop their release notes.
 
-*TBD: list of X accounts to follow.*
+**X accounts I follow for updates:**
+
+- [@ClaudeCodeLog](https://x.com/ClaudeCodeLog) — Claude Code changelog
+- [@claudeai](https://x.com/claudeai) — Claude AI / Anthropic
+- [@bcherny](https://x.com/bcherny) — Boris Cherny (creator of Claude Code, Anthropic)
+- [@trq212](https://x.com/trq212) — Anthropic
+- [@OpenAI](https://x.com/OpenAI) — OpenAI
+- [@OpenAIDevs](https://x.com/OpenAIDevs) — OpenAI Developers (API, Codex, SDK changelog)
+- [@ChatGPTapp](https://x.com/ChatGPTapp) — ChatGPT product/app updates
+- [@karpathy](https://x.com/karpathy) — Andrej Karpathy (ex-OpenAI, AI/LLM)
+- [@mattpocockuk](https://x.com/mattpocockuk) — Matt Pocock (focuses on Claude Code)
