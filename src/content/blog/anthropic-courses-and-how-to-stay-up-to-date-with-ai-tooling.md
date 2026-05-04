@@ -22,7 +22,7 @@ A list of courses from [anthropic.skilljar.com](https://anthropic.skilljar.com/)
 12. [Claude with Google Cloud's Vertex AI](https://anthropic.skilljar.com/claude-with-google-vertex)
 13. [Teaching AI Fluency](https://anthropic.skilljar.com/teaching-ai-fluency)
 14. [AI Fluency for nonprofits](https://anthropic.skilljar.com/ai-fluency-for-nonprofits)
-15. [Introduction to agent skills](https://anthropic.skilljar.com/introduction-to-agent-skills)
+15. [Introduction to agent skills](https://anthropic.skilljar.com/introduction-to-agent-skills) — short, good intro to skills. Key points: skills priority, and the idea that skills should ideally be invoked automatically — Claude uses semantic matching on the skill's description to decide when to trigger it. Note: subagents only use skills that are explicitly listed for them
 16. [Introduction to subagents](https://anthropic.skilljar.com/introduction-to-subagents)
 17. [AI Capabilities and Limitations](https://anthropic.skilljar.com/ai-capabilities-and-limitations)
 
